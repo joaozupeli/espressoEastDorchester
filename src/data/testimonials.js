@@ -1,0 +1,17 @@
+export const testimonials = [
+  { id: 1, name: 'Maya R.', role: 'Neponset walker', rating: 5,
+    text: 'Spotted the yellow van after CrossFit — Spanish latte was unreal.',
+    avatar: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Maya' },
+  { id: 2, name: 'Jordan T.', role: 'Neighbor', rating: 5,
+    text: 'Fig matcha + pistachio vibes. Soft opening energy but drinks are dialed.',
+    avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Jordan' },
+  { id: 3, name: 'Aisha K.', role: 'Regular-in-the-making', rating: 5,
+    text: 'Love that it\'s sister-owned with actually interesting syrups.',
+    avatar: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Aisha' },
+  { id: 4, name: 'Chris P.', role: 'Trail runner', rating: 5,
+    text: 'Wish hours were easier than IG Stories — when the van\'s there, worth it.',
+    avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Chris' },
+  { id: 5, name: 'Lenora S.', role: 'Dorchester local', rating: 5,
+    text: 'Baklava syrup espresso hit the spot. Cheerful branding, friendly window.',
+    avatar: 'https://images.unsplash.com/photo-1487412720507-e7ab130641c0?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Lenora' },
+]

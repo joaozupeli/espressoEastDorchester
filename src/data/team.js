@@ -1,0 +1,28 @@
+export const team = [
+  {
+    id: 'founders',
+    name: 'Espresso East Sisters',
+    role: 'Founders / baristas',
+    type: 'medico',
+    crm: null,
+    photo: 'https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=600&h=750&fit=crop&auto=format',
+    photoAlt: 'Café founders',
+    bio: 'Sister-owned specialty coffee with East African roots — building a cheerful Dorchester brand one Spanish latte at a time.',
+    formation: 'East African specialty · Mobile café',
+    specialties: ['Espresso', 'Signature syrups'],
+    languages: ['English'],
+  },
+  {
+    id: 'crew',
+    name: 'Van Crew',
+    role: 'Service',
+    type: 'apoio',
+    crm: null,
+    photo: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=750&fit=crop&auto=format',
+    photoAlt: 'Barista',
+    bio: 'Keeping the window moving during soft-opening weekends and trail rush.',
+    formation: 'Mobile service',
+    specialties: ['Orders', 'Hospitality'],
+    languages: ['English'],
+  },
+]
